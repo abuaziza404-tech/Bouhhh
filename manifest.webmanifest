@@ -1,0 +1,10 @@
+{
+  "name": "أحمد أبو عزيزه الرشيدي",
+  "short_name": "أحمد أبو عزيزه",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#0d2222"
+}
