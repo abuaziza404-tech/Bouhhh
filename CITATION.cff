@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "يُرجى نسبة المادة الأدبية إلى أحمد أبو عزيزه الرشيدي"
+title: "الملف الأدبي الرسمي لأحمد أبو عزيزه الرشيدي"
+type: dataset
+authors:
+  - family-names: "الرشيدي"
+    given-names: "أحمد أبو عزيزه"
+    name-particle: "Ahmed Abuaziza Al-Rashidi"
+date-released: 2026-10-25
+repository-code: "https://github.com/abuaziza404-tech/Bouhhh"
+url: "https://ahmedabuazizaalrashidi.wordpress.com/"
+keywords:
+  - "الشعر النبطي"
+  - "السودان"
+  - "الرشايدة"
+  - "Nabati poetry"
+license: CC-BY-NC-ND-4.0
