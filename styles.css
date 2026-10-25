@@ -48,11 +48,11 @@ nav a:hover::after, nav a:focus-visible::after { left: 0; }
   position: relative;
   display: grid;
   align-items: center;
-  background: var(--ink) url("assets/hero.webp") center/cover no-repeat;
+  background: var(--ink) url("https://commons.wikimedia.org/wiki/Special:Redirect/file/Ahmed_Abuaziza_Al-Rashidi_portrait.jpg") 30% 28%/cover no-repeat;
   color: var(--white);
   overflow: hidden;
 }
-.hero-shade { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(7,20,20,.90) 0%, rgba(7,20,20,.64) 38%, rgba(7,20,20,.12) 72%); }
+.hero-shade { position: absolute; inset: 0; background: linear-gradient(270deg, rgba(7,20,20,.94) 0%, rgba(7,20,20,.72) 42%, rgba(7,20,20,.18) 76%); }
 .hero-content { position: relative; z-index: 1; width: min(700px, 88vw); margin-right: clamp(24px, 8vw, 140px); padding-top: 72px; }
 .eyebrow, .overline, .section-kicker { font-size: 12px; font-weight: 700; letter-spacing: 0; color: var(--coral); }
 h1, h2, h3, p { margin-top: 0; }
@@ -62,6 +62,8 @@ h1 { margin-bottom: 22px; font-size: clamp(54px, 8vw, 118px); line-height: 1.02;
 .primary-action:hover, .primary-action:focus-visible { transform: translateY(-3px); background: #ef9074; }
 .scroll-cue { position: absolute; z-index: 2; right: clamp(24px, 4vw, 64px); bottom: 26px; display: flex; align-items: center; gap: 11px; text-decoration: none; font-size: 12px; }
 .scroll-cue span { width: 40px; height: 1px; background: currentColor; animation: breathe 1.8s ease-in-out infinite; }
+.image-credit { position: absolute; z-index: 2; left: clamp(18px, 3vw, 44px); bottom: 18px; margin: 0; max-width: 340px; color: rgba(255,255,255,.58); font-size: 10px; line-height: 1.5; }
+.image-credit a { color: inherit; }
 
 .section { padding: clamp(72px, 10vw, 150px) clamp(24px, 6vw, 90px); }
 .section > * { max-width: var(--max); margin-left: auto; margin-right: auto; }
@@ -111,11 +113,11 @@ h2 { font-size: clamp(38px, 5vw, 72px); line-height: 1.16; letter-spacing: 0; ma
   .menu-toggle { display: block; }
   nav { display: none; position: absolute; top: 72px; right: 0; left: 0; padding: 22px; flex-direction: column; gap: 18px; background: rgba(7,21,20,.98); }
   nav.is-open { display: flex; }
-  .hero { min-height: 92svh; background-position: 59% center; }
+  .hero { min-height: 92svh; background-position: center 22%; }
   .hero-shade { background: linear-gradient(180deg, rgba(7,20,20,.32), rgba(7,20,20,.9) 70%); }
   .hero-content { width: auto; margin: 0; padding: 90px 24px 74px; align-self: end; }
   h1 { font-size: clamp(48px, 16vw, 76px); }
-  .scroll-cue { display: none; }
+  .scroll-cue { display: none; }\n  .image-credit { left: 18px; right: 18px; bottom: 10px; text-align: left; }
   .intro-grid, .diwan-layout, .links-layout { grid-template-columns: 1fr; gap: 44px; }
   h2 { font-size: 42px; }
   .facts { gap: 22px; justify-content: space-between; }
