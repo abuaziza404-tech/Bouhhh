@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "أحمد أبو عزيزه الرشيدي",
+  "alternateName": [
+    "Ahmed Abuaziza Al-Rashidi",
+    "أحمد أبوعزيزه الرشيدي"
+  ],
+  "jobTitle": "شاعر نبطي وباحث سوداني",
+  "description": "شاعر نبطي سوداني من شرق السودان، من أبناء الرشايدة، وصاحب ديوان القاش والتاكة.",
+  "nationality": {
+    "@type": "Country",
+    "name": "السودان"
+  },
+  "sameAs": [
+    "https://www.wikidata.org/wiki/Q141683121",
+    "https://ahmedabuazizaalrashidi.wordpress.com/",
+    "https://www.tiktok.com/@abuaz404",
+    "https://www.youtube.com/@abuaz404"
+  ]
+}
