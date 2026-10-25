@@ -14,6 +14,11 @@
 - شاعر الراية، الموسم الثالث: بلغ مرحلة الثلاثين.
 - شاعر المليون، الموسم الثاني عشر: شارك في مقابلات أبوظبي ونال إجازة اللجنة.
 
+## الأرشيف المصور
+
+- 100 صفحة شعرية مستقلة: https://github.com/abuaziza404-tech/Bouhhh/tree/main/gallery/pages
+- فهرس الصور: https://github.com/abuaziza404-tech/Bouhhh/blob/main/gallery/README.md
+
 ## روابط الهوية
 
 - الموقع الأدبي: https://ahmedabuazizaalrashidi.wordpress.com/
