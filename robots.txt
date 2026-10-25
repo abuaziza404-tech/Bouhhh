@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://abuaziza404-tech.github.io/Bouhhh/sitemap.xml
+Sitemap: https://abuaziza404-tech.github.io/Bouhhh/gallery/image-sitemap.xml
